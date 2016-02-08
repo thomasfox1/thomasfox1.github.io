@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,700,900,300);
+
+h1{
+  font-family: "Roboto", sans-serif;
+  font-size: 100;
+}
+
+h2{
+  font-family: monospace;
+  font-size: 300;
+}
