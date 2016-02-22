@@ -1,5 +1,18 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:100,700,900,300);
 
+#ingredients {
+  float: left;
+  border-right: solid 5px red;
+  padding: 15px;
+  width: 20%;
+}
+
+#directions {
+  float: left;
+  width: 32%;
+  padding: 15px;
+}
+
 h1{
   font-family: "Roboto", sans-serif;
   font-size:700;
