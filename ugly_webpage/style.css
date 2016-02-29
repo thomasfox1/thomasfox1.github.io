@@ -1,0 +1,130 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Orbitron);
+@import url(https://fonts.googleapis.com/css?family=Black+Ops+One);
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+
+h1 {
+  color: red;
+  background-color: green;
+  font-size: 80px;
+  border: 5px dotted purple;
+  padding: 5%;
+  font-family: "Indie Flower", sans-serif;
+  font-weight: 600;
+  margin: 5%;
+}
+
+h2 {
+  color: blue;
+  background-color: brown;
+  font-size: 50px;
+  border: 5px solid pink;
+  font-family: "Lobster",sans-serif;
+}
+
+h3 {
+  color: pink;
+  background-color: green;
+  font-size: 50px;
+  border: 5px dashed orange;
+  font-family: "Sigmar One",sans-serif;
+}
+
+#j1 {
+  color: red;
+  font-size: 20px;
+  font-family: "Pacifico",sans-serif;
+  text-decoration: underline;
+  text-decoration-color: purple;
+}
+
+#j2 {
+  color: purple;
+  font-size: 17px;
+  font-family:"Indie Flower",sans-serif;
+}
+
+#j3 {
+  color: green;
+  font-size: 25px;
+  font-family: "Orbitron",sans-serif;
+  text-decoration: overline;
+  text-decoration-color: blue;
+}
+
+#image1 {
+  float: right;
+  }
+
+#image2 {
+  float: right;
+}
+
+#image3 {
+  float: right;
+}
+
+#w1 {
+  color: red;
+  font-size: 15px;
+  font-family: "Pacifico", fantasy;
+}
+
+#w2 {
+  color: blue;
+  font-size: 20px;
+  font-family: "Orbitron", sans-serif;
+}
+
+#w3 {
+  color: green;
+  font-size: 17px;
+  font-family:"Indie Flower", sans-serif;
+}
+
+#w4 {
+  text-decoration: overline;
+  color: brown;
+  font-size: 14px;
+  font-family: "Black Ops One", sans-serif;
+}
+
+#w5 {
+  color: orange;
+  font-size: 20px;
+  font-family: "Bangers", sans-serif;
+}
+
+#w6 {
+  color: black;
+  font-size: 18px;
+  font-family: "Permanent Marker", sans-serif;
+}
+
+#w7 {
+  color: red;
+  font-size: 15px;
+}
+
+#w8 {
+  text-decoration: underline;
+  color: green;
+  font-size: 15px;
+  font-family: "Pacifico", sans-serif;
+  line-height: 110%;
+}
+
+#w9 {
+  color: purple;
+  font-size: 18px;
+  font-family: "Orbitron", monospace;
+  line-height: normal;
+}
+
+body {
+  background-color: yellow;
+}
