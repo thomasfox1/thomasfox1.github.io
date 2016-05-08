@@ -1,0 +1,633 @@
+@import url(https://fonts.googleapis.com/css?family=Candal);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Courgette);
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
+@import url(https://fonts.googleapis.com/css?family=Architects+Daughter);
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+@import url(https://fonts.googleapis.com/css?family=Passion+One);
+@import url(https://fonts.googleapis.com/css?family=Righteous);
+
+nav a {
+  margin: 70px;
+  font-size: 30px;
+  line-height: 50px;
+  font-family: 'Sigmar One', cursive;
+}
+
+nav {
+  padding-left: 50px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 80px;
+  border-bottom: 10px solid black;
+  padding-bottom: 20px;
+  font-family: 'Lobster', cursive;
+  color: white;
+}
+
+#space {
+  font-size: 60px;
+  line-height: 150px;
+  color: white;
+  font-family: 'Architects Daughter', cursive;
+  line-height: 110px;
+}
+
+#space2 {
+  font-size: 60px;
+  line-height: 150px;
+  color: white;
+  font-family: 'Architects Daughter', cursive;
+  line-height: 40px;
+}
+
+#logo {
+  float:left;
+}
+
+#logo2 {
+  float:right;
+}
+
+h2 {
+  text-align: center;
+  font-size: 55px;
+  font-family: 'Lobster', cursive;
+  color: white;
+}
+
+body {
+  background-color: red;
+}
+
+h3 {
+  font-size: 40px;
+  font-family: 'Fjalla One', sans-serif;
+  color: black;
+}
+
+h4 {
+  font-size: 40px;
+  font-family: 'Fjalla One', sans-serif;
+  color: black;
+}
+
+h5 {
+  font-size: 40px;
+  font-family: 'Fjalla One', sans-serif;
+  padding-top: 10px;
+  color: black;
+}
+
+h6 {
+ font-size: 40px;
+ font-family: 'Fjalla One', sans-serif;
+ padding-top: 5px;
+ color: black;
+}
+
+#Players{
+  font-size: 20px;
+  font-family: 'Courgette',cursive;
+  color: black;
+}
+
+#Record{
+  font-size: 20px;
+  font-family: 'Courgette',cursive;
+  color: black;
+}
+
+#Stats{
+  font-size: 20px;
+  font-family: 'Courgette',cursive;
+  color: black;
+}
+
+#News{
+  font-size: 20px;
+  font-family: 'Courgette',cursive;
+  color: black;
+}
+
+#Valuable{
+  font-size: 20px;
+  font-family: 'Courgette',cursive;
+  padding-bottom: 11px;
+  color: black;
+}
+
+#info {
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  border-left: 10px solid black;
+  border-right: 10px solid black;
+  padding-left: 20px;
+  padding-bottom: 25px;
+  padding-top: 20px;
+  padding-right: 30px;
+}
+
+#okafor {
+  border: 7.5px solid black;
+}
+
+#cox {
+  border: 7.5px solid black;
+}
+
+#franco {
+  border: 7.5px solid black;
+}
+
+#giroux {
+  border: 7.5px solid black;
+  border-bottom: 10px solid black;
+}
+
+#eagles1 {
+  text-align: center;
+  font-size: 80px;
+  border-bottom: 10px solid black;
+  padding-bottom: 20px;
+  font-family: 'Lobster', cursive;
+  color: #A4A4A4;
+}
+
+#eagles2 {
+  text-align: center;
+  font-size: 55px;
+  font-family: 'Lobster', cursive;
+  color: #A4A4A4;
+}
+
+#body2 {
+  background-color: green;
+}
+
+#Players1{
+  font-size: 45px;
+  font-family: 'Courgette',cursive;
+  color: #A4A4A4;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+
+#recordeagles{
+  font-size: 45px;
+  font-family: 'Courgette',cursive;
+  color: #A4A4A4;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+
+#Stats1{
+  font-size: 45px;
+  font-family: 'Courgette',cursive;
+  color: #A4A4A4;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+
+#News1{
+  font-size: 45px;
+  font-family: 'Courgette',cursive;
+  color: #A4A4A4;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+
+#Valuable1{
+  font-size: 45px;
+  font-family: 'Courgette',cursive;
+  padding-bottom: 11px;
+  color: #A4A4A4;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+
+#body5 {
+  background-color: orange;
+}
+
+#flyers1 {
+  text-align: center;
+  font-size: 80px;
+  border-bottom: 10px solid black;
+  padding-bottom: 20px;
+  font-family: 'Lobster', cursive;
+  color: black;
+}
+
+#flyers2 {
+  text-align: center;
+  font-size: 55px;
+  font-family: 'Lobster', cursive;
+  color: black;
+}
+
+#sixers1{
+  text-align: center;
+  font-size: 80px;
+  border-bottom: 10px solid blue;
+  padding-bottom: 20px;
+  font-family: 'Lobster', cursive;
+  color: white;
+}
+
+#sixers2{
+  text-align: center;
+  font-size: 55px;
+  font-family: 'Lobster', cursive;
+  color: white;
+}
+
+#body3{
+  background-color:red;
+}
+
+#phillies1{
+  text-align: center;
+  font-size: 80px;
+  border-bottom: 10px solid red;
+  padding-bottom: 20px;
+  font-family: 'Lobster', cursive;
+  color: blue;
+}
+
+#phillies2{
+  text-align: center;
+  font-size: 55px;
+  font-family: 'Lobster', cursive;
+  color: blue;
+}
+
+#body4{
+  background-color:white;
+}
+
+#space3 {
+  font-size: 60px;
+  line-height: 150px;
+  color: blue;
+  font-family: 'Architects Daughter', cursive;
+  line-height: 90px;
+}
+
+#space4 {
+  font-size: 60px;
+  line-height: 150px;
+  color: blue;
+  font-family: 'Architects Daughter', cursive;
+  line-height: 80px;
+}
+
+#space5 {
+  font-size: 60px;
+  line-height: 150px;
+  color: red;
+  font-family: 'Architects Daughter', cursive;
+  line-height: 110px;
+}
+
+#space6 {
+  font-size: 60px;
+  line-height: 150px;
+  color: red;
+  font-family: 'Architects Daughter', cursive;
+  line-height: 40px;
+}
+
+#fletcher {
+  font-size:30px;
+  color: black;
+  font-family: 'Passion One', cursive;
+}
+
+p {
+  font-size: 20px;
+  color: black;
+  font-family: 'Righteous', cursive;
+}
+
+#news3 {
+  font-size: 45px;
+  color: #A4A4A4;
+  font-family: 'Courgette',cursive;
+  border: 3px solid black;
+}
+
+#bradford{
+  font-size: 30px;
+  color: black;
+  font-family: 'Passion One', cursive;
+}
+
+#murray{
+  font-size: 30px;
+  color: black;
+  font-family: 'Passion One', cursive;
+}
+
+#matthews{
+  font-size: 30px;
+  color: black;
+  font-family: 'Passion One', cursive;
+}
+
+#fletch{
+  font-size: 30px;
+  color: black;
+  font-family: 'Passion One', cursive;
+}
+
+#jenkins{
+  font-size: 30px;
+  color: black;
+  font-family: 'Passion One', cursive;
+}
+
+#Players2{
+  font-size: 40px;
+  font-family: 'Courgette',cursive;
+  color: white;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+
+#Stats2{
+  font-size: 40px;
+  font-family: 'Courgette',cursive;
+  color: white;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+
+#Valuable2{
+  font-size: 40px;
+  font-family: 'Courgette',cursive;
+  padding-bottom: 11px;
+  color: white;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+
+#Players3{
+  font-size: 40px;
+  font-family: 'Courgette',cursive;
+  color: blue;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+
+#Stats3{
+  font-size: 40px;
+  font-family: 'Courgette',cursive;
+  color: blue;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+
+#Valuable3{
+  font-size: 40px;
+  font-family: 'Courgette',cursive;
+  padding-bottom: 11px;
+  color: blue;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+
+#Players4{
+  font-size: 40px;
+  font-family: 'Courgette',cursive;
+  color: black;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+
+#Stats4{
+  font-size: 40px;
+  font-family: 'Courgette',cursive;
+  color: black;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+
+
+#Valuable4{
+  font-size: 40px;
+  font-family: 'Courgette',cursive;
+  padding-bottom: 11px;
+  color: black;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+
+#wentz {
+  font-size: 30px;
+  color: black;
+  font-family: 'Passion One', cursive;
+}
+
+#jenk {
+  font-size: 30px;
+  color: black;
+  font-family: 'Passion One', cursive;
+}
+
+#sproles {
+  font-size: 30px;
+  color: black;
+  font-family: 'Passion One', cursive;
+}
+
+#recordeagles {
+  font-size: 35px;
+  color: #A4A4A4;
+  font-family: 'Courgette',cursive;
+  border-bottom: 3px solid black;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+#sixersnews{
+  font-size: 35px;
+  color: white;
+  font-family: 'Courgette',cursive;
+  border: 3px solid black;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+
+#recordsixers{
+  font-size: 35px;
+  color: white;
+  font-family: 'Courgette',cursive;
+  border: 3px solid black;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+
+#nerlens{
+  font-size: 30px;
+  color: blue;
+  font-family: 'Passion One', cursive;
+}
+#ish{
+  font-size: 30px;
+  color: blue;
+  font-family: 'Passion One', cursive;
+}
+#jahlil{
+  font-size: 30px;
+  color: blue;
+  font-family: 'Passion One', cursive;
+}
+#jah2{
+  font-size: 30px;
+  color: blue;
+  font-family: 'Passion One', cursive;
+}
+#smith{
+  font-size: 30px;
+  color: blue;
+  font-family: 'Passion One', cursive;
+}
+#noel{
+  font-size: 30px;
+  color: blue;
+  font-family: 'Passion One', cursive;
+}
+#okafor1{
+  font-size: 30px;
+  color: blue;
+  font-family: 'Passion One', cursive;
+}
+
+#philliesnews{
+  font-size: 35px;
+  color: blue;
+  font-family: 'Courgette',cursive;
+  border: 3px solid black;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+#recordphillies{
+  font-size: 35px;
+  color: blue;
+  font-family: 'Courgette',cursive;
+  border: 3px solid black;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+#maikel{
+  font-size: 30px;
+  color: red;
+  font-family: 'Passion One', cursive;
+}
+#nola1{
+  font-size: 30px;
+  color: red;
+  font-family: 'Passion One', cursive;
+}
+#howard1{
+  font-size: 30px;
+  color: red;
+  font-family: 'Passion One', cursive;
+}
+#maikel1{
+  font-size: 30px;
+  color: red;
+  font-family: 'Passion One', cursive;
+}
+#nola{
+  font-size: 30px;
+  color: red;
+  font-family: 'Passion One', cursive;
+}
+#howard{
+  font-size: 30px;
+  color: red;
+  font-family: 'Passion One', cursive;
+}
+#maikel2{
+  font-size: 30px;
+  color: red;
+  font-family: 'Passion One', cursive;
+}
+
+#giroux1{
+  font-size: 30px;
+  color: white;
+  font-family: 'Passion One', cursive;
+}
+#giroux2{
+  font-size: 30px;
+  color: white;
+  font-family: 'Passion One', cursive;
+}
+#giroux3{
+  font-size: 30px;
+  color: white;
+  font-family: 'Passion One', cursive;
+}
+#shayne{
+  font-size: 30px;
+  color: white;
+  font-family: 'Passion One', cursive;
+}
+#shayne1{
+  font-size: 30px;
+  color: white;
+  font-family: 'Passion One', cursive;
+}
+#simmonds{
+  font-size: 30px;
+  color: white;
+  font-family: 'Passion One', cursive;
+}
+#simmonds1{
+  font-size: 30px;
+  color: white;
+  font-family: 'Passion One', cursive;
+}
+#flyersnews{
+  font-size: 40px;
+  font-family: 'Courgette',cursive;
+  color: black;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+#recordflyers{
+  font-size: 40px;
+  font-family: 'Courgette',cursive;
+  color: black;
+  border: 3px solid black;
+  padding-left: 5px;
+}
+
+#simmondspic {
+  float: right;
+  margin-left: 50px;
+}
+
+#noelpic {
+  float: right;
+  margin-left: 50px;
+}
+
+#jenkinspic{
+  float: right;
+  padding-top: 10px;
+}
+#howardpic{
+  float: right;
+  padding-left: 10px;
+}
